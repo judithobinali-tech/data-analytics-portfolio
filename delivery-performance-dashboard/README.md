@@ -1,6 +1,4 @@
-# Delivery Performance Dashboard
-Featured Projects
-1. Delivery Performance Dashboard (Excel)
+# Delivery Performance Dashboard(Excel)
 
 An interactive dashboard analyzing:
 
